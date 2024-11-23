@@ -1,0 +1,75 @@
+﻿body {
+    padding: 10px;
+}
+
+p{
+    font: bold
+}
+div 
+{
+   font-size:large 
+}
+
+nav li {
+    font-size: larger;
+    display: inline-block;
+    margin: 20px;
+}
+
+    nav li:hover {
+        background-color: powderblue;
+        padding: 2px;
+    }
+
+nav ul {
+    background-color: blanchedalmond;
+    max-width: 50%;
+}
+
+nav a {
+    color: black;
+}
+
+hr {
+    background-color: lightslategrey;
+}
+#img1 {
+    max-width: 20%;
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+   
+}
+#img2 {
+    max-width: 25%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+#Sudurj h1 {
+    font: bold;
+    display: inline-block;
+    justify-content:space-between;
+}
+hr {
+    background-color: lightslategrey;
+    
+}
+#InfZaBezop {
+    display: flex;
+    align-items: center;
+    margin: 20px 10px;
+    max-width:50%;
+}
+#Img3 {
+    max-width: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+    
+       
+
+
+    
+

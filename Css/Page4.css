@@ -1,0 +1,74 @@
+﻿body{
+    padding:10px;
+}
+nav li {
+    font-size: larger;
+    display: inline-block;
+    margin: 20px;
+}
+
+    nav li:hover {
+        background-color: powderblue;
+        padding: 2px;
+    }
+
+nav ul {
+    background-color: blanchedalmond;
+    max-width: 50%;
+}
+
+nav a {
+    color: black;
+}
+
+hr {
+    background-color: lightslategrey;
+}
+#Img1 {
+    display: flex;
+    justify-content:center;
+    
+}
+#Table {
+    display: flex;
+    justify-content: center;
+}
+#Img2 {
+    display: flex;
+    justify-content: center;    
+}
+ #Cher hr{
+    background-color: lightslategrey;
+}
+#Cher img {
+    display: flex;
+    max-width: 40%;
+}
+#Img3 {
+    display: flex;
+    justify-content: center;
+}
+#Img4 {
+    display: flex;
+    justify-content: center;
+}
+#Img5 {
+    display: flex;
+    justify-content: center;
+}
+#Img6{
+    display:flex;
+    justify-content:center;
+}
+#Img7 {
+    display: flex;
+    justify-content: center;
+}
+#Img8{
+    display:flex;
+    justify-content:center;
+}
+#Img9{
+    display:flex;
+    justify-content:center;
+}

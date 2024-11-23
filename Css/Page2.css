@@ -1,0 +1,36 @@
+﻿
+#content {
+    display:flex;
+    align-items:center;
+    margin:20px 10px;
+    justify-content:space-between;
+}
+
+    #content img {
+        max-width: 40%;
+    }
+
+    #content h1 {
+        max-width: 40%
+    }
+
+nav li {
+    font-size: larger;
+    display: inline-block;
+    margin: 20px;
+}
+
+nav li:hover {
+     background-color: powderblue;
+     padding: 2px;
+    }
+nav ul{
+    background-color:blanchedalmond;
+    max-width:50%;
+}
+nav a{
+    color:black;
+}
+hr{
+    background-color:lightslategrey;
+}
